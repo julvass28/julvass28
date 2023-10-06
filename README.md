@@ -7,16 +7,18 @@
 - 🌱 Curso inglês (nível básico)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julvass28&bg_color=000000&color=ff69b4&line=ff1493&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <div>
-    <a href="https://github.com/julvass28">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julvass28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julvass28&layout=compact&langs_count-16&theme=radical"/>
-  </div>
+ 
 
       
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=julvass28&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+ <div>
+    <a href="https://github.com/julvass28">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julvass28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julvass28&layout=compact&langs_count-16&theme=radical"/>
+  </div>
 
  ### Tecnologias que estou estudando no momento
 
